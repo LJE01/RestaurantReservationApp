@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RestaurantReservationApp4/app/src/main/res/layout/activity_main.xml" value="0.17046605876393112" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RestaurantReservationApp4/app/src/main/res/layout/chinese.xml" value="0.17755825734549138" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RestaurantReservationApp4/app/src/main/res/layout/chinese1.xml" value="0.17755825734549138" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RestaurantReservationApp4/app/src/main/res/layout/chinese2.xml" value="0.17755825734549138" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RestaurantReservationApp4/app/src/main/res/layout/chinese3.xml" value="0.17755825734549138" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RestaurantReservationApp4/app/src/main/res/layout/chinese4.xml" value="0.17755825734549138" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RestaurantReservationApp4/app/src/main/res/layout/japanese.xml" value="0.17755825734549138" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RestaurantReservationApp4/app/src/main/res/layout/japanese1.xml" value="0.17755825734549138" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RestaurantReservationApp4/app/src/main/res/layout/japanese2.xml" value="0.17755825734549138" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RestaurantReservationApp4/app/src/main/res/layout/japanese3.xml" value="0.17755825734549138" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RestaurantReservationApp4/app/src/main/res/layout/japanese4.xml" value="0.17755825734549138" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RestaurantReservationApp4/app/src/main/res/layout/japanese5.xml" value="0.17755825734549138" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RestaurantReservationApp4/app/src/main/res/layout/korean.xml" value="0.17755825734549138" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RestaurantReservationApp4/app/src/main/res/layout/korean1.xml" value="0.17755825734549138" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RestaurantReservationApp4/app/src/main/res/layout/korean2.xml" value="0.17755825734549138" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RestaurantReservationApp4/app/src/main/res/layout/korean3.xml" value="0.17755825734549138" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RestaurantReservationApp4/app/src/main/res/layout/korean4.xml" value="0.17755825734549138" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RestaurantReservationApp4/app/src/main/res/layout/korean5.xml" value="0.17755825734549138" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RestaurantReservationApp4/app/src/main/res/layout/login.xml" value="0.17755825734549138" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RestaurantReservationApp4/app/src/main/res/layout/register.xml" value="0.17755825734549138" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RestaurantReservationApp4/app/src/main/res/layout/reservation.xml" value="0.17755825734549138" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RestaurantReservationApp4/app/src/main/res/layout/western.xml" value="0.17755825734549138" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RestaurantReservationApp4/app/src/main/res/layout/western1.xml" value="0.17755825734549138" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RestaurantReservationApp4/app/src/main/res/layout/western2.xml" value="0.17755825734549138" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RestaurantReservationApp4/app/src/main/res/layout/western3.xml" value="0.17755825734549138" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RestaurantReservationApp4/app/src/main/res/layout/western4.xml" value="0.17755825734549138" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
